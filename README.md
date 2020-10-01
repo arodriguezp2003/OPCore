@@ -17,7 +17,7 @@ OPCore is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'OPCore'
+pod 'OPCore', :git => "https://github.com/arodriguezp2003/OPCore.git"
 ```
 
 ## Author
