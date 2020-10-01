@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'OPCore_Example' do
+  pod 'OPCore', :path => '../'
+
+  target 'OPCore_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
